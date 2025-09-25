@@ -1,0 +1,14 @@
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.exe
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.deps.json
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.runtimeconfig.json
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.dll
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.pdb
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.AssemblyInfoInputs.cache
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.AssemblyInfo.cs
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.csproj.CoreCompileInputs.cache
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.dll
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\refint\Zerbitzaria.dll
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.pdb
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.genruntimeconfig.cache
+D:\Zerbitzu prozesu\Zerbitzaria\Zerbitzaria\obj\Debug\net8.0\ref\Zerbitzaria.dll

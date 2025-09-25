@@ -1,0 +1,5 @@
+D:\Zerbitzu prozesu\Ariketa 2\Zerbitzaria\Zerbitzaria\bin\Release\net8.0\app.publish\Zerbitzaria.exe
+D:\Zerbitzu prozesu\Ariketa 2\Zerbitzaria\Zerbitzaria\bin\Release\net8.0\app.publish\Zerbitzaria.dll
+D:\Zerbitzu prozesu\Ariketa 2\Zerbitzaria\Zerbitzaria\bin\Release\net8.0\app.publish\Zerbitzaria.deps.json
+D:\Zerbitzu prozesu\Ariketa 2\Zerbitzaria\Zerbitzaria\bin\Release\net8.0\app.publish\Zerbitzaria.runtimeconfig.json
+D:\Zerbitzu prozesu\Ariketa 2\Zerbitzaria\Zerbitzaria\bin\Release\net8.0\app.publish\Zerbitzaria.pdb

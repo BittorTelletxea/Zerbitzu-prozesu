@@ -1,0 +1,28 @@
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.exe
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.deps.json
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.runtimeconfig.json
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.dll
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.pdb
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.AssemblyInfoInputs.cache
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.AssemblyInfo.cs
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.csproj.CoreCompileInputs.cache
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.dll
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\refint\Bezeroa.dll
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.pdb
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.genruntimeconfig.cache
+D:\Zerbitzu prozesu\Bezeroa\Bezeroa\obj\Debug\net8.0\ref\Bezeroa.dll
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.exe
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.deps.json
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.runtimeconfig.json
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.dll
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\bin\Debug\net8.0\Bezeroa.pdb
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.AssemblyInfoInputs.cache
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.AssemblyInfo.cs
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.csproj.CoreCompileInputs.cache
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.dll
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\refint\Bezeroa.dll
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.pdb
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\Bezeroa.genruntimeconfig.cache
+D:\Zerbitzu prozesu\Ariketa 2\Bezeroa\Bezeroa\obj\Debug\net8.0\ref\Bezeroa.dll

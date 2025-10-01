@@ -1,0 +1,15 @@
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\bin\Debug\net8.0\2.Ariketa.exe
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\bin\Debug\net8.0\2.Ariketa.deps.json
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\bin\Debug\net8.0\2.Ariketa.runtimeconfig.json
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\bin\Debug\net8.0\2.Ariketa.dll
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\bin\Debug\net8.0\2.Ariketa.pdb
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.AssemblyInfoInputs.cache
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.AssemblyInfo.cs
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.csproj.CoreCompileInputs.cache
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.sourcelink.json
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.dll
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\refint\2.Ariketa.dll
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.pdb
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\2.Ariketa.genruntimeconfig.cache
+D:\Zerbitzu-prozesu\Hariak\2.Ariketa\2.Ariketa\obj\Debug\net8.0\ref\2.Ariketa.dll
